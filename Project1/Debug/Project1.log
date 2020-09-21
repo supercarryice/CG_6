@@ -1,0 +1,14 @@
+﻿  IFS.cpp
+e:\cg-assignment\assignment0\project1\ifs.cpp(43): warning C4305: “=”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+e:\cg-assignment\assignment0\project1\ifs.cpp(60): warning C4018: “<”: 有符号/无符号不匹配
+  image.cpp
+e:\cg-assignment\assignment0\project1\image.cpp(44): warning C4101: “tmp”: 未引用的局部变量
+e:\cg-assignment\assignment0\project1\image.cpp(99): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\cg-assignment\assignment0\project1\image.cpp(164): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  Project1.vcxproj -> E:\cg-assignment\assignment0\Debug\Project1.exe
